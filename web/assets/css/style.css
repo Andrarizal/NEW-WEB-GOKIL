@@ -120,6 +120,10 @@ header{
     color: #fff;
 }
 
+#test:hover {
+    background-color: #F2C808;
+    color: #15477a;
+}
 
 .navbar-dark .navbar-nav .active>.nav-link,
 .navbar-dark .navbar-nav .nav-link.active,
